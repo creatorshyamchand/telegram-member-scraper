@@ -1,2 +1,0 @@
-# telegram-member-scraper
-Hii
